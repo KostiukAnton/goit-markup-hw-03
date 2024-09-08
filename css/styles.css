@@ -63,8 +63,6 @@ section {
 .address-list {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -80,6 +78,10 @@ section {
 }
 .header-logo {
     margin-right: 76px;
+}
+.nav-item {
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .nav-link {
     font-weight: 500;
