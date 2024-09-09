@@ -155,7 +155,7 @@ padding-bottom: 188px;
 .solutions-button:focus {
         background-color: #404BBF;
 }
-.benefits-title{
+.visually-hidden{
     position: absolute;
     width: 1px;
     height: 1px;
